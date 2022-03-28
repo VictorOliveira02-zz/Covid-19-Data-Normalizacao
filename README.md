@@ -37,6 +37,7 @@ logo após o script de criação do banco de dados.
 ## 🛠️ Ferramenta Utilizada
 
 * [MySQL Workbench 8.0 CE](https://repl.it/) 
+* [Data on COVID-19 (coronavirus) by Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data)
  
 ## ✒️ Autores
 
